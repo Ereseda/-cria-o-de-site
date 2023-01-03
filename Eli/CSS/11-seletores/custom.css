@@ -1,0 +1,32 @@
+body{
+    background-color: #e8e8e8;
+    color: #2d49a6;
+}
+h1{
+    color: #008000;
+}
+p{
+    color: #008000;
+}
+/*Seletor descendente*/
+p span{
+    color:#ff0000;
+}
+/*Seletor pseudo-classe*/
+a:hover{
+    color:#ffff00;
+}
+/*Seletor de identificação unica*/
+#menu{
+    color: #0000ff;
+}
+#conteudo{
+    color:indigo;
+}
+/*Seletor tipo class*/
+.cont_destaq{
+    color:orange;
+}
+.mais_acessado{
+    font-size: 23px;
+}
